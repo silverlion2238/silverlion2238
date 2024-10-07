@@ -1,4 +1,4 @@
-## Hello World! 👋 I'm Michal Slonik
+## Hello World! 👋 I'm Michal Schubert
 
 I'm a 17-year-old student currently attending Secondary School. I'm passionate about technology and eager to learn new things. I'm particularly interested in:
 
